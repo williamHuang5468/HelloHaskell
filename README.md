@@ -10,6 +10,8 @@ Learning Haskell on online resource
 
 ### Problem
 
+Now : `Question 6`
+
 - [ ] Questions 1 to 10: Lists
 - [ ] Questions 11 to 20: Lists, continued
 - [ ] Questions 21 to 28: Lists again

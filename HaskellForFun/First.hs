@@ -1,1 +1,3 @@
-add a b = a + b
+let doubleSmallThan x = if x > 100
+						then x 
+						else x * 2
